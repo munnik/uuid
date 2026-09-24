@@ -1,3 +1,3 @@
-module github.com/gofrs/uuid/v5
+module github.com/munnik/uuid/v5
 
 go 1.25
